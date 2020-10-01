@@ -1,4 +1,4 @@
-# Whatsapp Message Spammer (WMS)
+# Whatsapp Message Spammer (WMS) or Message Bomber
 <table>
 <tr>
 <td>
